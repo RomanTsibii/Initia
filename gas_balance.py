@@ -39,5 +39,5 @@ def main():
             print(f"0")
             # print(f"Дані для адреси {address} не знайдено")
 
-if name == "main":
+if __name__ == "__main__":
     main()
